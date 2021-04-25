@@ -20,29 +20,29 @@ Another function is “Go to,” which lets you navigate to a specific line by e
 
 # Tools
 
-> An advanced editor for editing subtitle
-> Text editor for manual editing subtitles
-Synchronization Subtitles ( Time Shifting ) — Coming Soon!
-Translate English subtitles to different languages – Coming Soon!
-Fetching Subtitle files – Coming Soon!
-Sync your files with your cloud account
-Store your files on our servers
-Duplicate
-Go to
-Search by word and line number
+- An advanced editor for editing subtitle
+- Text editor for manual editing subtitles
+- Synchronization Subtitles ( Time Shifting ) — Coming Soon!
+- Translate English subtitles to different languages – Coming Soon!
+- Fetching Subtitle files – Coming Soon!
+- Sync your files with your cloud account
+- Store your files on our servers
+- Duplicate
+- Go to
+- Search by word and line number
 
 # Key Features
 
-Supports Kurdish, Arabic, and Persian languages
-Supports Kurdish Movie Translators and Kurdish punctuation
-Supports TED Translation Rules
-Built-in video player for preview changes and editing item
-Exporting and sharing
-Dark Mode
-Sharing Text from an app to our app!
-Text Tags
-Changing Text Direction
-Free Text Box!
+- Supports Kurdish, Arabic, and Persian languages
+- Supports Kurdish Movie Translators and Kurdish punctuation
+- Supports TED Translation Rules
+- Built-in video player for preview changes and editing item
+- Exporting and sharing
+- Dark Mode
+- Sharing Text from an app to our app!
+- Text Tags
+- Changing Text Direction
+- Free Text Box!
 
 # Last but not least, this app is powered by Ayan Organization for Rehabilitation (NGO).
 
@@ -73,24 +73,25 @@ Free Text Box!
 
 # کۆکراوەی تایبەتمەندییەکان:
 
-دەستکاریکەری باڵا بۆ دەستکاری کردنی فایلەکان
-ڕێکخستنی دەستکاریکەر بە ئارەزووی خۆت
-دەستکاری کردنی کاتی دێڕەکان (بەم زوانە)
-وەرگێڕی خۆکار لە هەموو زمانەکانەوە بۆ کوردی (بەم زوانە)
-هێنانی فایلی سەبتایتڵی فیلم (بەم زوانە)
-بە دوو کردن
-چونە سەر دێڕ بە ژمارەی دێڕ
-گەڕان بە دوای وشەیەک یان ڕستەیەک
-پاڵپشتی کردنی زمانەکانی کوردی، عەرەبی، فارسی و هتد.
-پاڵپشتی کردنی یاساکانی وەرگێڕانی فیلم و زنجیرە
-پاڵپشتی کردنی یاساکانی تێد
-لەخۆگرتنی لێدەری ڤیدیۆ بە سەبتایتڵەوە
-دەرکردن و هاوبەشی پێکردنی فایل
-هێنانی تێکستی سەبتایتڵ لە نەرمەکاڵایەکی ترەوە
-تاگی نووسین
-گۆڕینی ئاڕاستەی نووسین
-بۆکسی تێکستی ئازاد
-دۆخی تاریک
+- دەستکاریکەری باڵا بۆ دەستکاری کردنی فایلەکان
+- ڕێکخستنی دەستکاریکەر بە ئارەزووی خۆت
+- دەستکاری کردنی کاتی دێڕەکان (بەم زوانە)
+- 
+- وەرگێڕی خۆکار لە هەموو زمانەکانەوە بۆ کوردی (بەم زوانە)
+- هێنانی فایلی سەبتایتڵی فیلم (بەم زوانە)
+- بە دوو کردن
+- چونە سەر دێڕ بە ژمارەی دێڕ
+- گەڕان بە دوای وشەیەک یان ڕستەیەک
+- پاڵپشتی کردنی زمانەکانی کوردی، عەرەبی، فارسی و هتد
+- پاڵپشتی کردنی یاساکانی وەرگێڕانی فیلم و زنجیرە
+- پاڵپشتی کردنی یاساکانی تێد
+- لەخۆگرتنی لێدەری ڤیدیۆ بە سەبتایتڵەوە
+- دەرکردن و هاوبەشی پێکردنی فایل
+- هێنانی تێکستی سەبتایتڵ لە نەرمەکاڵایەکی ترەوە
+- تاگی نووسین
+- گۆڕینی ئاڕاستەی نووسین
+- بۆکسی تێکستی ئازاد
+- دۆخی تاریک
 
 # فەرموو دایبگرن
 # بۆ ئایفۆن: https://apps.apple.com/us/app/bir-subtitle-editor/id1546740389
