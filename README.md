@@ -44,10 +44,10 @@ Another function is “Go to,” which lets you navigate to a specific line by e
 - Changing Text Direction
 - Free Text Box!
 
-## Last but not least, this app is powered by Ayan Organization for Rehabilitation (NGO).
+### Last but not least, this app is powered by Ayan Organization for Rehabilitation (NGO).
 
-# for iOS: https://apps.apple.com/us/app/bir-subtitle-editor/id1546740389
-# for Android: https://play.google.com/store/apps/details?id=com.BirCode.BirSubTitile
+### for iOS: https://apps.apple.com/us/app/bir-subtitle-editor/id1546740389
+### for Android: https://play.google.com/store/apps/details?id=com.BirCode.BirSubTitile
 
 # دەستکاریکەری سەبتایتڵی بیر
 
@@ -93,6 +93,6 @@ Another function is “Go to,” which lets you navigate to a specific line by e
 - بۆکسی تێکستی ئازاد
 - دۆخی تاریک
 
-# فەرموو دایبگرن
-# بۆ ئایفۆن: https://apps.apple.com/us/app/bir-subtitle-editor/id1546740389
-# بۆ ئەندرۆید https://play.google.com/store/apps/details?id=com.BirCode.BirSubTitile
+### فەرموو دایبگرن
+### بۆ ئایفۆن: https://apps.apple.com/us/app/bir-subtitle-editor/id1546740389
+### بۆ ئەندرۆید https://play.google.com/store/apps/details?id=com.BirCode.BirSubTitile
