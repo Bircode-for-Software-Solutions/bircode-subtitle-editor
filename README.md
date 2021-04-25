@@ -20,8 +20,8 @@ Another function is “Go to,” which lets you navigate to a specific line by e
 
 # Tools
 
-An advanced editor for editing subtitle
-Text editor for manual editing subtitles
+> An advanced editor for editing subtitle
+> Text editor for manual editing subtitles
 Synchronization Subtitles ( Time Shifting ) — Coming Soon!
 Translate English subtitles to different languages – Coming Soon!
 Fetching Subtitle files – Coming Soon!
