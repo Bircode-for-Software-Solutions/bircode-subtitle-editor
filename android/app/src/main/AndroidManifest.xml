@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.bircode.birsubtitile">
+    package="com.BirCode.BirSubTitile">
    <application
-        android:label="birsubtitile"
+        android:label="Bîr Subtitle Editor"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

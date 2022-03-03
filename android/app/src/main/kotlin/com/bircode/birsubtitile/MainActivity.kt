@@ -1,4 +1,4 @@
-package com.bircode.birsubtitile
+package com.BirCode.BirSubTitile
 
 import io.flutter.embedding.android.FlutterActivity
 
