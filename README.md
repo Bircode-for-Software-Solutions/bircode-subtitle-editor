@@ -1,6 +1,6 @@
 English/Kurdish (کوردی)
 
-# Bîr-subtitle-editor
+# Bîr Subtitle Editor
 
 # A Brief Introduction
 
